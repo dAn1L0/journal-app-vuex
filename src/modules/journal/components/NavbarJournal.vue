@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar bg-primary">
     <a class="navbar-brand text-white">
-      <img 
+      <img
         src="@/assets/logo.png"
         alt="vue-logo"
         height="24"
@@ -21,7 +21,6 @@
 
 <!-- <script>
   export default {
-    
   }
 </script> -->
 
